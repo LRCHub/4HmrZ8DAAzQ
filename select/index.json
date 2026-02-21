@@ -1,0 +1,144 @@
+{
+  "version": 1,
+  "base_track": "イノコリ先生",
+  "base_artist": "CHiCO with HoneyWorks",
+  "createdAt": "2026-02-21T05:44:14.060860Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "イノコリ先生",
+      "artist": "Honeyworks",
+      "has_synced": false,
+      "path": "select/01_イノコリ先生_Honeyworks.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "イノコリ先生",
+      "artist": "sana×HoneyWorks feat. YURiCa / Hanatan",
+      "has_synced": true,
+      "path": "select/02_イノコリ先生_sana×HoneyWorks_feat._YURiCa___Hanatan.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "イノコリ先生",
+      "artist": "CHiCO",
+      "has_synced": true,
+      "path": "select/03_イノコリ先生_CHiCO.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "イノコリ先生",
+      "artist": "CHiCO with HoneyWorks",
+      "has_synced": true,
+      "path": "select/04_イノコリ先生_CHiCO_with_HoneyWorks.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "イノコリ先生 feat.明智咲(CV：緑川光)",
+      "artist": "HoneyWorks",
+      "has_synced": true,
+      "path": "select/05_イノコリ先生_feat.明智咲(CV_緑川光)_HoneyWorks.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "イノコリ先生",
+      "artist": "HoneyWorks feat. 明智咲(CV:緑川光)",
+      "has_synced": true,
+      "path": "select/06_イノコリ先生_HoneyWorks_feat._明智咲(CV_緑川光).lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "イノコリ先生",
+      "artist": "HoneyWorks",
+      "has_synced": true,
+      "path": "select/07_イノコリ先生_HoneyWorks.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "イノコリ先生",
+      "artist": "HoneyWorks feat. Hanon× Kotoha",
+      "has_synced": true,
+      "path": "select/08_イノコリ先生_HoneyWorks_feat._Hanon×_Kotoha.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "イノコリ先生",
+      "artist": "Honeyworks;Flower",
+      "has_synced": true,
+      "path": "select/09_イノコリ先生_Honeyworks;Flower.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "イノコリ先生",
+      "artist": "HoneyWorks",
+      "has_synced": true,
+      "path": "select/10_イノコリ先生_HoneyWorks.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "イノコリ先生",
+      "artist": "HoneyWorks feat.flower",
+      "has_synced": true,
+      "path": "select/11_イノコリ先生_HoneyWorks_feat.flower.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "イノコリ先生",
+      "artist": "CHiCO",
+      "has_synced": true,
+      "path": "select/12_イノコリ先生_CHiCO.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "イノコリ先生 (feat. けったろ & koma'n)",
+      "artist": "HoneyWorks",
+      "has_synced": true,
+      "path": "select/13_イノコリ先生_(feat._けったろ_&_koma'n)_HoneyWorks.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "イノコリ先生 (feat. 鎖那)",
+      "artist": "HoneyWorks",
+      "has_synced": true,
+      "path": "select/14_イノコリ先生_(feat._鎖那)_HoneyWorks.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "イノコリ先生 (feat. Hanon & Kotoha)",
+      "artist": "HoneyWorks",
+      "has_synced": true,
+      "path": "select/15_イノコリ先生_(feat._Hanon_&_Kotoha)_HoneyWorks.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "イノコリ先生",
+      "artist": "ゴム, HoneyWorks feat. v flower",
+      "has_synced": true,
+      "path": "select/16_イノコリ先生_ゴム,_HoneyWorks_feat._v_flower.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "イノコリ先生 (feat. Hanon & Kotoha)",
+      "artist": "HoneyWorks",
+      "has_synced": false,
+      "path": "select/pl_01_イノコリ先生_(feat._Hanon_&_Kotoha)_HoneyWorks.txt"
+    }
+  ]
+}
